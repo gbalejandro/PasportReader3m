@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://angelus.sens.ohr:8080/WSimage/WSimage.asmx?wsdl" docRef="http://angelus.sens.ohr:8080/WSimage/WSimage.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://angelus.sens.ohr:8080/WSimage/WSimage.asmx" xmlns:q1="WScan" binding="q1:WSimageSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://angelus.sens.ohr:8080/WSimage/WSimage.asmx" xmlns:q2="WScan" binding="q2:WSimageSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

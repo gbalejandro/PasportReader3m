@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Scannerapplication.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="passBD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">service</Value>
+    </Setting>
+    <Setting Name="serverImagenes" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\192.168.1.243\Backups\ScannerOCR\</Value>
+    </Setting>
+    <Setting Name="libTesseract" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\tessdata</Value>
+    </Setting>
+    <Setting Name="Scannerapplication_WSimage_WSimage" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://angelus.sens.ohr:8080/WSimage/WSimage.asmx</Value>
+    </Setting>
+    <Setting Name="ipBD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.1.28</Value>
+    </Setting>
+    <Setting Name="serverBD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">omega</Value>
+    </Setting>
+    <Setting Name="usuarioBD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">frtulum</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
